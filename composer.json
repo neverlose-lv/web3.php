@@ -1,5 +1,6 @@
 {
-  "name": "sc0vu/web3.php",
+  "name": "neverlose-lv/web3.php",
+  "version": "1.0.0",
   "description": "Ethereum web3 interface.",
   "type": "library",
   "license": "MIT",
